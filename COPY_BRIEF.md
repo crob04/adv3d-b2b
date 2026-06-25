@@ -230,7 +230,7 @@ Five to seven questions. Single-column accordion (per VISUAL_SPEC C9). Each addr
 
 ### Q4 — NDA process (OEM)
 **Question:** Can OEM engagements also be opened under NDA?
-**Answer:** Yes. OEM engagements can be opened under NDA on request, particularly where part geometry, tolerance windows, or material specifications are commercially sensitive. The NDA is mutual and signed before any file transfer, and it covers CAD, drawings, material data, and any production data exchanged thereafter. We do not share OEM part data with any third party, including white-label partners, and we keep a separate file-handling track per engagement.
+**Answer:** Yes. OEM engagements can be opened under NDA on request, particularly where part geometry, tolerance windows, or material data sheets are commercially sensitive. The NDA is mutual and signed before any file transfer, and it covers CAD, drawings, material data, and any production data exchanged thereafter. We do not share OEM part data with any third party, including white-label partners, and we keep a separate file-handling track per engagement.
 
 ### Q5 — MOQ, lead times, materials
 **Question:** What are the MOQs, lead times, and materials library?

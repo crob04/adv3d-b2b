@@ -13,7 +13,7 @@ const faqs = [
   },
   {
     q: 'Can OEM engagements also be opened under NDA?',
-    a: 'Yes. OEM engagements can be opened under NDA on request, particularly where part geometry, tolerance windows, or material specifications are commercially sensitive. The NDA is mutual and signed before any file transfer, and it covers CAD, drawings, material data, and any production data exchanged thereafter. We do not share OEM part data with any third party, including white-label partners, and we keep a separate file-handling track per engagement.',
+    a: 'Yes. OEM engagements can be opened under NDA on request, particularly where part geometry, tolerance windows, or material data sheets are commercially sensitive. The NDA is mutual and signed before any file transfer, and it covers CAD, drawings, material data, and any production data exchanged thereafter. We do not share OEM part data with any third party, including white-label partners, and we keep a separate file-handling track per engagement.',
   },
   {
     q: 'What are the MOQs, lead times, and materials library?',
