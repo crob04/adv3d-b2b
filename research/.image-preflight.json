@@ -1,0 +1,22 @@
+{
+  "verdict": "both_ok",
+  "pexels": {
+    "http_status": 200,
+    "total_results": 8000
+  },
+  "pixabay": {
+    "http_status": 200,
+    "total_hits": 500
+  },
+  "probed_with": {
+    "user_agent": "Mozilla/5.0",
+    "pexels_auth_format": "raw key in Authorization header (no Bearer prefix)",
+    "pixabay_key_param": "key=<raw key>"
+  },
+  "fallback_policy": "Pixabay primary, Pexels fallback (per image-search skill)",
+  "banned_sources": [
+    "images.unsplash.com (direct URLs from research \u2014 no API key, bypasses skill)",
+    "source.unsplash.com (Source API unstable, returns 503)",
+    "cdn.pixabay.com raw URLs (403 without API auth \u2014 must go through /api/ endpoint)"
+  ]
+}

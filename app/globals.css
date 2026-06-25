@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-brand-bg text-brand-text font-body antialiased;
+    @apply dark:bg-brand-dark-bg dark:text-brand-dark-text;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .container-edge {
+    @apply mx-auto w-full max-w-container px-6 sm:px-8 lg:px-12;
+  }
+
+  .eyebrow {
+    @apply text-xs sm:text-sm font-medium uppercase tracking-[0.18em] text-brand-muted;
+    @apply dark:text-brand-dark-muted;
+  }
+
+  /* details/summary native accordion styling */
+  .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+  .faq-item summary {
+    list-style: none;
+  }
+  .faq-item summary::after {
+    content: '+';
+    @apply ml-4 inline-block font-body text-2xl font-medium text-brand-muted;
+    @apply dark:text-brand-dark-muted;
+    transition: transform 200ms ease;
+  }
+  .faq-item[open] summary::after {
+    content: '−';
+  }
+}

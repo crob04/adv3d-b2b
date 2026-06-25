@@ -1,0 +1,44 @@
+[
+  {
+    "slot": "hero",
+    "pexels_id": "34222005",
+    "url": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 433427,
+    "alt": "Industrial machinery with robotic arm in a modern manufacturing facility (B2B hero)"
+  },
+  {
+    "slot": "fdm",
+    "pexels_id": "4485456",
+    "url": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 222125,
+    "alt": "3D printer nozzle operating in a workshop setting (FDM close-up)"
+  },
+  {
+    "slot": "sla",
+    "pexels_id": "20877042",
+    "url": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 157311,
+    "alt": "Modern 3D printer interior, advanced technology (SLA-style process)"
+  },
+  {
+    "slot": "sls",
+    "pexels_id": "20877039",
+    "url": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 135929,
+    "alt": "3D printer extrusion head in focus, modern technology (SLS-class process)"
+  },
+  {
+    "slot": "qa",
+    "pexels_id": "7180823",
+    "url": "https://images.pexels.com/photos/7180823/pexels-photo-7180823.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 165465,
+    "alt": "Craftsman using a caliper for precise measurement in a workshop (QA / verification)"
+  },
+  {
+    "slot": "multimaterial",
+    "pexels_id": "34718922",
+    "url": "https://images.pexels.com/photos/34718922/pexels-photo-34718922.jpeg?auto=compress&cs=tinysrgb&h=1280&w=1920",
+    "size": 417148,
+    "alt": "Industrial factory floor with machinery and structured workstations (multi-process)"
+  }
+]

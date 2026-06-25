@@ -1,0 +1,848 @@
+{
+  "hero_industrial": {
+    "q": "industrial robot arm factory",
+    "photos": [
+      {
+        "id": 29320998,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Industrial robotic arm in a Ciudad de M\u00e9xico lab setting, showcasing automation technology.",
+        "photographer": "Diego Martinez",
+        "url": "https://www.pexels.com/photo/advanced-robotic-arm-in-mexico-city-laboratory-29320998/",
+        "large": "https://images.pexels.com/photos/29320998/pexels-photo-29320998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/29320998/pexels-photo-29320998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/29320998/pexels-photo-29320998.jpeg"
+      },
+      {
+        "id": 34222005,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Industrial machinery with robotic arm in a modern manufacturing facility.",
+        "photographer": "Freek Wolsink",
+        "url": "https://www.pexels.com/photo/automated-factory-conveyor-system-in-operation-34222005/",
+        "large": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg"
+      },
+      {
+        "id": 35280311,
+        "w": 7966,
+        "h": 5313,
+        "alt": "A white robotic arm operating indoors with a modern design and advanced technology.",
+        "photographer": "Magda Ehlers",
+        "url": "https://www.pexels.com/photo/robotic-arm-in-modern-industrial-setting-35280311/",
+        "large": "https://images.pexels.com/photos/35280311/pexels-photo-35280311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/35280311/pexels-photo-35280311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/35280311/pexels-photo-35280311.jpeg"
+      },
+      {
+        "id": 17180807,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a plasma cutting machine working on a metal sheet in an industrial setting.",
+        "photographer": "Ana Victoria  Valverde",
+        "url": "https://www.pexels.com/photo/plasma-cutting-in-factory-17180807/",
+        "large": "https://images.pexels.com/photos/17180807/pexels-photo-17180807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/17180807/pexels-photo-17180807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/17180807/pexels-photo-17180807.jpeg"
+      },
+      {
+        "id": 29988963,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a laser cutter in an industrial factory, showcasing modern manufacturing technology.",
+        "photographer": "Cemrecan Yurtman",
+        "url": "https://www.pexels.com/photo/industrial-laser-cutter-in-factory-setting-29988963/",
+        "large": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg"
+      },
+      {
+        "id": 34718926,
+        "w": 7008,
+        "h": 4672,
+        "alt": "Inside view of an industrial factory featuring conveyor belts and empty walkways.",
+        "photographer": "Yetkin A\u011fa\u00e7",
+        "url": "https://www.pexels.com/photo/industrial-factory-interior-with-conveyor-belt-34718926/",
+        "large": "https://images.pexels.com/photos/34718926/pexels-photo-34718926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34718926/pexels-photo-34718926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34718926/pexels-photo-34718926.jpeg"
+      },
+      {
+        "id": 36423816,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Glass manufacturing process at a factory in Dar es Salaam, showcasing automated machinery.",
+        "photographer": "Keegan Checks",
+        "url": "https://www.pexels.com/photo/industrial-glass-production-in-dar-es-salaam-36423816/",
+        "large": "https://images.pexels.com/photos/36423816/pexels-photo-36423816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36423816/pexels-photo-36423816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36423816/pexels-photo-36423816.jpeg"
+      },
+      {
+        "id": 36522033,
+        "w": 6000,
+        "h": 4000,
+        "alt": "A view of advanced industrial machinery displayed at a trade fair exhibit.",
+        "photographer": "Peter Xie",
+        "url": "https://www.pexels.com/photo/industrial-machinery-at-trade-show-exhibit-36522033/",
+        "large": "https://images.pexels.com/photos/36522033/pexels-photo-36522033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36522033/pexels-photo-36522033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36522033/pexels-photo-36522033.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "hero_cnc": {
+    "q": "precision manufacturing factory",
+    "photos": [
+      {
+        "id": 29988963,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a laser cutter in an industrial factory, showcasing modern manufacturing technology.",
+        "photographer": "Cemrecan Yurtman",
+        "url": "https://www.pexels.com/photo/industrial-laser-cutter-in-factory-setting-29988963/",
+        "large": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg"
+      },
+      {
+        "id": 28752150,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a spinning lathe machine in an industrial workshop setting.",
+        "photographer": "Connor Lucock",
+        "url": "https://www.pexels.com/photo/industrial-lathe-machine-in-action-28752150/",
+        "large": "https://images.pexels.com/photos/28752150/pexels-photo-28752150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/28752150/pexels-photo-28752150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/28752150/pexels-photo-28752150.jpeg"
+      },
+      {
+        "id": 34221997,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Modern industrial machine in operation in a manufacturing facility showcasing advanced technology.",
+        "photographer": "Freek Wolsink",
+        "url": "https://www.pexels.com/photo/high-tech-industrial-manufacturing-facility-34221997/",
+        "large": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg"
+      },
+      {
+        "id": 32845701,
+        "w": 8256,
+        "h": 5504,
+        "alt": "Russian factory worker in blue uniform operating CNC machine indoors.",
+        "photographer": "Sergey Sergeev",
+        "url": "https://www.pexels.com/photo/worker-operating-cnc-machine-in-russian-factory-32845701/",
+        "large": "https://images.pexels.com/photos/32845701/pexels-photo-32845701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/32845701/pexels-photo-32845701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/32845701/pexels-photo-32845701.jpeg"
+      },
+      {
+        "id": 36522038,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of an industrial machine cutting a metal rod with precision.",
+        "photographer": "Peter Xie",
+        "url": "https://www.pexels.com/photo/industrial-metal-cutting-machine-in-operation-36522038/",
+        "large": "https://images.pexels.com/photos/36522038/pexels-photo-36522038.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36522038/pexels-photo-36522038.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36522038/pexels-photo-36522038.jpeg"
+      },
+      {
+        "id": 18569751,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a busy industrial workshop featuring machinery and tools.",
+        "photographer": "J E",
+        "url": "https://www.pexels.com/photo/a-machine-shop-with-a-large-machine-and-tools-18569751/",
+        "large": "https://images.pexels.com/photos/18569751/pexels-photo-18569751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/18569751/pexels-photo-18569751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/18569751/pexels-photo-18569751.jpeg"
+      },
+      {
+        "id": 8865189,
+        "w": 7008,
+        "h": 6208,
+        "alt": "High-precision milling machine cutting a metal piece, showcasing industrial machinery.",
+        "photographer": "Daniel Smyth",
+        "url": "https://www.pexels.com/photo/heavy-machinery-in-a-machine-shop-8865189/",
+        "large": "https://images.pexels.com/photos/8865189/pexels-photo-8865189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/8865189/pexels-photo-8865189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/8865189/pexels-photo-8865189.jpeg"
+      },
+      {
+        "id": 36423801,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Glass bottles being manufactured on an automated production line in a factory.",
+        "photographer": "Keegan Checks",
+        "url": "https://www.pexels.com/photo/industrial-glass-bottle-production-line-36423801/",
+        "large": "https://images.pexels.com/photos/36423801/pexels-photo-36423801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36423801/pexels-photo-36423801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36423801/pexels-photo-36423801.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "fdm_industrial": {
+    "q": "large format 3d printer industrial",
+    "photos": [
+      {
+        "id": 19278850,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a 3D printer creating a plastic object in an industrial setting.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/close-up-of-the-3d-printing-machine-19278850/",
+        "large": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg"
+      },
+      {
+        "id": 20877042,
+        "w": 6462,
+        "h": 4308,
+        "alt": "Close-up view of a modern 3D printer interior showcasing advanced technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877042/",
+        "large": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg"
+      },
+      {
+        "id": 4485456,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed shot of a 3D printer nozzle operating in a workshop setting.",
+        "photographer": "Kuba Grzybek",
+        "url": "https://www.pexels.com/photo/3d-printer-in-a-workshop-4485456/",
+        "large": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg"
+      },
+      {
+        "id": 12656436,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed view of a 3D printer component showcasing its technology and design.",
+        "photographer": "Berat BAKI",
+        "url": "https://www.pexels.com/photo/3d-printer-mechanism-12656436/",
+        "large": "https://images.pexels.com/photos/12656436/pexels-photo-12656436.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/12656436/pexels-photo-12656436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/12656436/pexels-photo-12656436.jpeg"
+      },
+      {
+        "id": 22491107,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed view of a high-tech 3D printer mechanism showcasing precision engineering.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/selective-focus-of-device-22491107/",
+        "large": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg"
+      },
+      {
+        "id": 20877033,
+        "w": 6314,
+        "h": 4209,
+        "alt": "Macro shot of a 3D printer nozzle highlighting technology and precision.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877033/",
+        "large": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg"
+      },
+      {
+        "id": 20877036,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed image showcasing the intricate components of a high-tech 3D printer in action.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-with-camcorder-20877036/",
+        "large": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg"
+      },
+      {
+        "id": 20877039,
+        "w": 6628,
+        "h": 4419,
+        "alt": "Detailed close-up of a 3D printer extrusion head in focus, showcasing modern technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/close-up-of-3d-printer-20877039/",
+        "large": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "sla_industrial": {
+    "q": "industrial 3d printing production",
+    "photos": [
+      {
+        "id": 20877039,
+        "w": 6628,
+        "h": 4419,
+        "alt": "Detailed close-up of a 3D printer extrusion head in focus, showcasing modern technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/close-up-of-3d-printer-20877039/",
+        "large": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg"
+      },
+      {
+        "id": 13513543,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed shot of a 3D printer creating an object, focusing on the cooling fan and print head.",
+        "photographer": "Jonathan Cooper",
+        "url": "https://www.pexels.com/photo/a-close-up-shot-of-a-3d-printer-13513543/",
+        "large": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg"
+      },
+      {
+        "id": 4485456,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed shot of a 3D printer nozzle operating in a workshop setting.",
+        "photographer": "Kuba Grzybek",
+        "url": "https://www.pexels.com/photo/3d-printer-in-a-workshop-4485456/",
+        "large": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg"
+      },
+      {
+        "id": 22491107,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed view of a high-tech 3D printer mechanism showcasing precision engineering.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/selective-focus-of-device-22491107/",
+        "large": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/22491107/pexels-photo-22491107.jpeg"
+      },
+      {
+        "id": 20877033,
+        "w": 6314,
+        "h": 4209,
+        "alt": "Macro shot of a 3D printer nozzle highlighting technology and precision.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877033/",
+        "large": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg"
+      },
+      {
+        "id": 20877042,
+        "w": 6462,
+        "h": 4308,
+        "alt": "Close-up view of a modern 3D printer interior showcasing advanced technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877042/",
+        "large": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg"
+      },
+      {
+        "id": 20877036,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed image showcasing the intricate components of a high-tech 3D printer in action.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-with-camcorder-20877036/",
+        "large": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg"
+      },
+      {
+        "id": 33977785,
+        "w": 7952,
+        "h": 5304,
+        "alt": "3D printer build plate with warning symbols, showcasing high-tech equipment in a workspace.",
+        "photographer": "Jakub Zerdzicki",
+        "url": "https://www.pexels.com/photo/top-view-of-3d-printer-build-plate-in-workspace-33977785/",
+        "large": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "sls_industrial": {
+    "q": "industrial powder bed 3d printing",
+    "photos": [
+      {
+        "id": 33977785,
+        "w": 7952,
+        "h": 5304,
+        "alt": "3D printer build plate with warning symbols, showcasing high-tech equipment in a workspace.",
+        "photographer": "Jakub Zerdzicki",
+        "url": "https://www.pexels.com/photo/top-view-of-3d-printer-build-plate-in-workspace-33977785/",
+        "large": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33977785/pexels-photo-33977785.jpeg"
+      },
+      {
+        "id": 13513543,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed shot of a 3D printer creating an object, focusing on the cooling fan and print head.",
+        "photographer": "Jonathan Cooper",
+        "url": "https://www.pexels.com/photo/a-close-up-shot-of-a-3d-printer-13513543/",
+        "large": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/13513543/pexels-photo-13513543.jpeg"
+      },
+      {
+        "id": 19278850,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a 3D printer creating a plastic object in an industrial setting.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/close-up-of-the-3d-printing-machine-19278850/",
+        "large": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg"
+      },
+      {
+        "id": 20877042,
+        "w": 6462,
+        "h": 4308,
+        "alt": "Close-up view of a modern 3D printer interior showcasing advanced technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877042/",
+        "large": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877042/pexels-photo-20877042.jpeg"
+      },
+      {
+        "id": 20877033,
+        "w": 6314,
+        "h": 4209,
+        "alt": "Macro shot of a 3D printer nozzle highlighting technology and precision.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-in-shadow-20877033/",
+        "large": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877033/pexels-photo-20877033.jpeg"
+      },
+      {
+        "id": 20877039,
+        "w": 6628,
+        "h": 4419,
+        "alt": "Detailed close-up of a 3D printer extrusion head in focus, showcasing modern technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/close-up-of-3d-printer-20877039/",
+        "large": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg"
+      },
+      {
+        "id": 4485456,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed shot of a 3D printer nozzle operating in a workshop setting.",
+        "photographer": "Kuba Grzybek",
+        "url": "https://www.pexels.com/photo/3d-printer-in-a-workshop-4485456/",
+        "large": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/4485456/pexels-photo-4485456.jpeg"
+      },
+      {
+        "id": 13189369,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed view of 3D printer parts showing wires and equipment in a workshop setting.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/close-up-of-a-modern-machinery-13189369/",
+        "large": "https://images.pexels.com/photos/13189369/pexels-photo-13189369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/13189369/pexels-photo-13189369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/13189369/pexels-photo-13189369.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "qa_metrology": {
+    "q": "engineer measuring precision part",
+    "photos": [
+      {
+        "id": 33559565,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a technician's hands assembling a metal connecting rod with precision and care.",
+        "photographer": "Auto Tech",
+        "url": "https://www.pexels.com/photo/technician-assembling-engine-connecting-rod-33559565/",
+        "large": "https://images.pexels.com/photos/33559565/pexels-photo-33559565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33559565/pexels-photo-33559565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33559565/pexels-photo-33559565.jpeg"
+      },
+      {
+        "id": 7180823,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Close-up of a craftsman using a caliper for precise measurement in a workshop.",
+        "photographer": "Thirdman",
+        "url": "https://www.pexels.com/photo/man-using-a-caliper-to-measure-an-item-in-a-workshop-7180823/",
+        "large": "https://images.pexels.com/photos/7180823/pexels-photo-7180823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/7180823/pexels-photo-7180823.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/7180823/pexels-photo-7180823.jpeg"
+      },
+      {
+        "id": 33559644,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Gloved hands working on a piston rod in a workshop setting. Industrial repair scene.",
+        "photographer": "Auto Tech",
+        "url": "https://www.pexels.com/photo/close-up-of-mechanic-working-on-engine-part-33559644/",
+        "large": "https://images.pexels.com/photos/33559644/pexels-photo-33559644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33559644/pexels-photo-33559644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33559644/pexels-photo-33559644.jpeg"
+      },
+      {
+        "id": 33559451,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Skilled mechanic working on engine assembly with precision tools in factory setting.",
+        "photographer": "Auto Tech",
+        "url": "https://www.pexels.com/photo/mechanic-assembling-engine-with-precision-tools-33559451/",
+        "large": "https://images.pexels.com/photos/33559451/pexels-photo-33559451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33559451/pexels-photo-33559451.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33559451/pexels-photo-33559451.jpeg"
+      },
+      {
+        "id": 7018177,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a mechanic using a caliper on machinery, emphasizing precision in engineering.",
+        "photographer": "Alex Dom\u00ednguez",
+        "url": "https://www.pexels.com/photo/close-up-of-mechanic-hands-7018177/",
+        "large": "https://images.pexels.com/photos/7018177/pexels-photo-7018177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/7018177/pexels-photo-7018177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/7018177/pexels-photo-7018177.jpeg"
+      },
+      {
+        "id": 3862631,
+        "w": 7952,
+        "h": 5304,
+        "alt": "Close-up of a woman adjusting a DC power supply in a lab setting, indicating a hands-on approach to scientific research.",
+        "photographer": "ThisIsEngineering",
+        "url": "https://www.pexels.com/photo/female-engineer-with-equipment-3862631/",
+        "large": "https://images.pexels.com/photos/3862631/pexels-photo-3862631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/3862631/pexels-photo-3862631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/3862631/pexels-photo-3862631.jpeg"
+      },
+      {
+        "id": 7565174,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a mechanic cleaning a camshaft with a cloth in an industrial setting.",
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-person-wiping-a-part-of-a-metal-engine-7565174/",
+        "large": "https://images.pexels.com/photos/7565174/pexels-photo-7565174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/7565174/pexels-photo-7565174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/7565174/pexels-photo-7565174.jpeg"
+      },
+      {
+        "id": 7180748,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed view of hands using a digital caliper on a wooden table.",
+        "photographer": "Thirdman",
+        "url": "https://www.pexels.com/photo/a-person-holding-a-tool-7180748/",
+        "large": "https://images.pexels.com/photos/7180748/pexels-photo-7180748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/7180748/pexels-photo-7180748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/7180748/pexels-photo-7180748.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "qa_cmm": {
+    "q": "quality control cmm inspection",
+    "photos": [
+      {
+        "id": 36522029,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a PCB inspection machine in action, highlighting technology.",
+        "photographer": "Peter Xie",
+        "url": "https://www.pexels.com/photo/automated-circuit-board-inspection-system-36522029/",
+        "large": "https://images.pexels.com/photos/36522029/pexels-photo-36522029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36522029/pexels-photo-36522029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36522029/pexels-photo-36522029.jpeg"
+      },
+      {
+        "id": 34718932,
+        "w": 7008,
+        "h": 4672,
+        "alt": "Detailed macro shot of metal industrial tools aligned on a gritty surface.",
+        "photographer": "Yetkin A\u011fa\u00e7",
+        "url": "https://www.pexels.com/photo/close-up-of-industrial-tools-on-dark-surface-34718932/",
+        "large": "https://images.pexels.com/photos/34718932/pexels-photo-34718932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34718932/pexels-photo-34718932.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34718932/pexels-photo-34718932.jpeg"
+      },
+      {
+        "id": 35383622,
+        "w": 8883,
+        "h": 5922,
+        "alt": "Worker in uniform examining sheets in a brightly lit factory environment, focusing on quality.",
+        "photographer": "Ruslan Alekso",
+        "url": "https://www.pexels.com/photo/industrial-worker-inspecting-materials-in-factory-35383622/",
+        "large": "https://images.pexels.com/photos/35383622/pexels-photo-35383622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/35383622/pexels-photo-35383622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/35383622/pexels-photo-35383622.jpeg"
+      },
+      {
+        "id": 32845674,
+        "w": 6048,
+        "h": 4024,
+        "alt": "A woman in safety gear inspects metal sheets in a modern Russian industrial setting.",
+        "photographer": "Sergey Sergeev",
+        "url": "https://www.pexels.com/photo/female-worker-inspecting-metal-sheets-in-russian-factory-32845674/",
+        "large": "https://images.pexels.com/photos/32845674/pexels-photo-32845674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/32845674/pexels-photo-32845674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/32845674/pexels-photo-32845674.jpeg"
+      },
+      {
+        "id": 31090818,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Two female textile workers inspecting fabric at a factory inspection station.",
+        "photographer": "EqualStock IN",
+        "url": "https://www.pexels.com/photo/female-textile-workers-at-inspection-station-indoors-31090818/",
+        "large": "https://images.pexels.com/photos/31090818/pexels-photo-31090818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/31090818/pexels-photo-31090818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/31090818/pexels-photo-31090818.jpeg"
+      },
+      {
+        "id": 8482551,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Engineer in hardhat reviewing architectural floor plans at construction site.",
+        "photographer": "Thirdman",
+        "url": "https://www.pexels.com/photo/backview-of-an-engineer-holding-a-floor-plan-on-a-wall-8482551/",
+        "large": "https://images.pexels.com/photos/8482551/pexels-photo-8482551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/8482551/pexels-photo-8482551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/8482551/pexels-photo-8482551.jpeg"
+      },
+      {
+        "id": 31030919,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Two workers in a textile factory sorting fabric at a table under bright lighting.",
+        "photographer": "EqualStock IN",
+        "url": "https://www.pexels.com/photo/textile-factory-workers-sorting-fabric-31030919/",
+        "large": "https://images.pexels.com/photos/31030919/pexels-photo-31030919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/31030919/pexels-photo-31030919.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/31030919/pexels-photo-31030919.jpeg"
+      },
+      {
+        "id": 31335983,
+        "w": 6000,
+        "h": 4000,
+        "alt": "A female textile worker in a factory reviews documents at a workstation.",
+        "photographer": "EqualStock IN",
+        "url": "https://www.pexels.com/photo/textile-factory-worker-reviewing-documents-31335983/",
+        "large": "https://images.pexels.com/photos/31335983/pexels-photo-31335983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/31335983/pexels-photo-31335983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/31335983/pexels-photo-31335983.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "factory_automation": {
+    "q": "factory automation production line",
+    "photos": [
+      {
+        "id": 5532674,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of automated canning equipment in a brewery, highlighting the manufacturing process.",
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/filling-cans-with-freshly-brewed-beers-5532674/",
+        "large": "https://images.pexels.com/photos/5532674/pexels-photo-5532674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/5532674/pexels-photo-5532674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/5532674/pexels-photo-5532674.jpeg"
+      },
+      {
+        "id": 34222005,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Industrial machinery with robotic arm in a modern manufacturing facility.",
+        "photographer": "Freek Wolsink",
+        "url": "https://www.pexels.com/photo/automated-factory-conveyor-system-in-operation-34222005/",
+        "large": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34222005/pexels-photo-34222005.jpeg"
+      },
+      {
+        "id": 18631423,
+        "w": 7271,
+        "h": 4852,
+        "alt": "Close-up of a plastic bottle in a modern factory bottling production line.",
+        "photographer": "Vladimir Srajber",
+        "url": "https://www.pexels.com/photo/plastic-bottle-on-production-line-at-factory-18631423/",
+        "large": "https://images.pexels.com/photos/18631423/pexels-photo-18631423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/18631423/pexels-photo-18631423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/18631423/pexels-photo-18631423.jpeg"
+      },
+      {
+        "id": 5532675,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of an automated can filling machine in a beverage production line.",
+        "photographer": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/machine-filling-beer-in-aluminum-cans-5532675/",
+        "large": "https://images.pexels.com/photos/5532675/pexels-photo-5532675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/5532675/pexels-photo-5532675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/5532675/pexels-photo-5532675.jpeg"
+      },
+      {
+        "id": 34718925,
+        "w": 7008,
+        "h": 4672,
+        "alt": "A complex piece of machinery in a dark industrial setting with vibrant lighting.",
+        "photographer": "Yetkin A\u011fa\u00e7",
+        "url": "https://www.pexels.com/photo/industrial-machinery-in-dimly-lit-factory-setting-34718925/",
+        "large": "https://images.pexels.com/photos/34718925/pexels-photo-34718925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34718925/pexels-photo-34718925.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34718925/pexels-photo-34718925.jpeg"
+      },
+      {
+        "id": 36423811,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Glass bottles on an automated line in a factory, showcasing industrial glass making.",
+        "photographer": "Keegan Checks",
+        "url": "https://www.pexels.com/photo/automated-glass-bottle-production-line-36423811/",
+        "large": "https://images.pexels.com/photos/36423811/pexels-photo-36423811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36423811/pexels-photo-36423811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36423811/pexels-photo-36423811.jpeg"
+      },
+      {
+        "id": 28146795,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of advanced machinery in a modern laboratory setting, highlighting technology and industry.",
+        "photographer": "Pham Ngoc Anh",
+        "url": "https://www.pexels.com/photo/a-man-is-working-on-a-machine-in-a-factory-28146795/",
+        "large": "https://images.pexels.com/photos/28146795/pexels-photo-28146795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/28146795/pexels-photo-28146795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/28146795/pexels-photo-28146795.jpeg"
+      },
+      {
+        "id": 33427061,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Detailed view of automated machinery with warning signals in an industrial setting.",
+        "photographer": "Katharina-Charlotte May",
+        "url": "https://www.pexels.com/photo/close-up-of-modern-industrial-machinery-in-factory-33427061/",
+        "large": "https://images.pexels.com/photos/33427061/pexels-photo-33427061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/33427061/pexels-photo-33427061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/33427061/pexels-photo-33427061.jpeg"
+      }
+    ],
+    "total": 8
+  },
+  "multi_process": {
+    "q": "additive manufacturing factory",
+    "photos": [
+      {
+        "id": 19278850,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Close-up of a 3D printer creating a plastic object in an industrial setting.",
+        "photographer": "FOX ^.\u11bd.^= \u222b",
+        "url": "https://www.pexels.com/photo/close-up-of-the-3d-printing-machine-19278850/",
+        "large": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/19278850/pexels-photo-19278850.jpeg"
+      },
+      {
+        "id": 34718922,
+        "w": 7008,
+        "h": 4672,
+        "alt": "Vast industrial factory floor with machinery, crates, and structured workstations.",
+        "photographer": "Yetkin A\u011fa\u00e7",
+        "url": "https://www.pexels.com/photo/industrial-factory-floor-with-machinery-and-crates-34718922/",
+        "large": "https://images.pexels.com/photos/34718922/pexels-photo-34718922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34718922/pexels-photo-34718922.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34718922/pexels-photo-34718922.jpeg"
+      },
+      {
+        "id": 29988963,
+        "w": 6240,
+        "h": 4160,
+        "alt": "Close-up of a laser cutter in an industrial factory, showcasing modern manufacturing technology.",
+        "photographer": "Cemrecan Yurtman",
+        "url": "https://www.pexels.com/photo/industrial-laser-cutter-in-factory-setting-29988963/",
+        "large": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg"
+      },
+      {
+        "id": 20877036,
+        "w": 6720,
+        "h": 4480,
+        "alt": "Detailed image showcasing the intricate components of a high-tech 3D printer in action.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/3d-printer-with-camcorder-20877036/",
+        "large": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877036/pexels-photo-20877036.jpeg"
+      },
+      {
+        "id": 36823725,
+        "w": 9061,
+        "h": 6031,
+        "alt": "Spacious and modern food production plant interior with industrial machinery and processing line.",
+        "photographer": "Adrien Olichon",
+        "url": "https://www.pexels.com/photo/modern-industrial-food-production-facility-interior-36823725/",
+        "large": "https://images.pexels.com/photos/36823725/pexels-photo-36823725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/36823725/pexels-photo-36823725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/36823725/pexels-photo-36823725.jpeg"
+      },
+      {
+        "id": 20877039,
+        "w": 6628,
+        "h": 4419,
+        "alt": "Detailed close-up of a 3D printer extrusion head in focus, showcasing modern technology.",
+        "photographer": "Matheus Bertelli",
+        "url": "https://www.pexels.com/photo/close-up-of-3d-printer-20877039/",
+        "large": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/20877039/pexels-photo-20877039.jpeg"
+      },
+      {
+        "id": 34207364,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Spacious industrial warehouse interior featuring machinery and storage shelves.",
+        "photographer": "Freek Wolsink",
+        "url": "https://www.pexels.com/photo/modern-industrial-warehouse-interior-with-machinery-34207364/",
+        "large": "https://images.pexels.com/photos/34207364/pexels-photo-34207364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34207364/pexels-photo-34207364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34207364/pexels-photo-34207364.jpeg"
+      },
+      {
+        "id": 34221997,
+        "w": 6000,
+        "h": 4000,
+        "alt": "Modern industrial machine in operation in a manufacturing facility showcasing advanced technology.",
+        "photographer": "Freek Wolsink",
+        "url": "https://www.pexels.com/photo/high-tech-industrial-manufacturing-facility-34221997/",
+        "large": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "large2x": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "original": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg"
+      }
+    ],
+    "total": 8
+  }
+}
