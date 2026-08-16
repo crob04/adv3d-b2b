@@ -1,6 +1,9 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import './globals.css';
 import Nav from '@/components/Nav';
+
+const gaId = process.env.NEXT_PUBLIC_GA_ID?.trim();
 
 export const metadata: Metadata = {
   title: 'Advanc3D — Contract Manufacturing for OEM and White-Label Partners',
@@ -54,6 +57,20 @@ export default function RootLayout({
       <body className="min-h-screen bg-brand-bg text-brand-text dark:bg-brand-dark-bg dark:text-brand-dark-text">
         <Nav />
         <main>{children}</main>
+        {gaId ? (
+          <>
+            <Script src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} strategy="afterInteractive" />
+            <Script id="gtag-init" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                window.gtag = gtag;
+                gtag('js', new Date());
+                gtag('config', '${gaId}');
+              `}
+            </Script>
+          </>
+        ) : null}
       </body>
     </html>
   );
