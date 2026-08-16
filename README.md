@@ -29,6 +29,10 @@ npm run build    # production build
 npm start        # serve production build
 ```
 
+## Analytics
+
+Set `NEXT_PUBLIC_GA_ID` in Vercel to enable the Google Analytics 4 tag. The tag is omitted when the variable is unset.
+
 ## Source-of-truth documents
 
 - `COPY_BRIEF.md` — binding copy contract (hero through final CTA)
